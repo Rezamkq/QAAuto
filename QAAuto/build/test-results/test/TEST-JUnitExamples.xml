@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="JUnitExamples" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-06-20T08:53:34.022Z" hostname="REZAMKQPC" time="0.012">
+  <properties/>
+  <testcase name="firstTest()" classname="JUnitExamples" time="0.01"/>
+  <testcase name="secondTest()" classname="JUnitExamples" time="0.001"/>
+  <system-out><![CDATA[Before All
+Before Each
+firstTest
+After Each
+Before Each
+serTest
+After Each
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
